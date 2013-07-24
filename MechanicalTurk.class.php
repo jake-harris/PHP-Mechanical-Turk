@@ -5,7 +5,7 @@
 */
 
 
-date_default_timezone_set('Europe/Amsterdam');
+date_default_timezone_set('America/Phoenix');
 
 class MechanicalTurk {
 
